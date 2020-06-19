@@ -1,0 +1,18 @@
+{
+  "name": "Bradley E. White",
+  "short_name": "Bradley E. White",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/bew.netlify.app/images/icon_hu2ac1ef3c6c2e434dacde130c13e106ad_115674_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/bew.netlify.app/images/icon_hu2ac1ef3c6c2e434dacde130c13e106ad_115674_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/bew.netlify.app/?utm_source=web_app_manifest"
+}

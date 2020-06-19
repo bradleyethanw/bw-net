@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Bradley E. White</title>
+    <link>bew.netlify.app/tag/demo/</link>
+      <atom:link href="bew.netlify.app/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Bradley E. White. All rights reserved.</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/bew.netlify.app/images/icon_hu2ac1ef3c6c2e434dacde130c13e106ad_115674_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo</title>
+      <link>bew.netlify.app/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>External Project</title>
+      <link>bew.netlify.app/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>bew.netlify.app/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
