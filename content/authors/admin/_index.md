@@ -42,7 +42,7 @@ social:
   
 - icon: cv
   icon_pack: ai
-  link: 
+  link: "https://bew.netlify.app/files/cv.pdf"
 
 superuser: true
 title: Bradley E. White

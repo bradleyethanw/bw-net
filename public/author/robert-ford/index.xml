@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Ford | Bradley E. White</title>
-    <link>bew.netlify.app/author/robert-ford/</link>
-      <atom:link href="bew.netlify.app/author/robert-ford/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bew.netlify.app/author/robert-ford/</link>
+      <atom:link href="https://bew.netlify.app/author/robert-ford/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Ford</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Bradley E. White. All rights reserved.</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/bew.netlify.app/images/icon_hu2ac1ef3c6c2e434dacde130c13e106ad_115674_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bew.netlify.app/images/icon_hu2ac1ef3c6c2e434dacde130c13e106ad_115674_512x512_fill_lanczos_center_2.png</url>
       <title>Robert Ford</title>
-      <link>bew.netlify.app/author/robert-ford/</link>
+      <link>https://bew.netlify.app/author/robert-ford/</link>
     </image>
     
     <item>
       <title>An example journal article</title>
-      <link>bew.netlify.app/publication/journal-article/</link>
+      <link>https://bew.netlify.app/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>bew.netlify.app/publication/journal-article/</guid>
+      <guid>https://bew.netlify.app/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -34,9 +34,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>bew.netlify.app/publication/conference-paper/</link>
+      <link>https://bew.netlify.app/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>bew.netlify.app/publication/conference-paper/</guid>
+      <guid>https://bew.netlify.app/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

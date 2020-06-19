@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Bradley E. White</title>
-    <link>bew.netlify.app/categories/</link>
-      <atom:link href="bew.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bew.netlify.app/categories/</link>
+      <atom:link href="https://bew.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Bradley E. White. All rights reserved.</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/bew.netlify.app/images/icon_hu2ac1ef3c6c2e434dacde130c13e106ad_115674_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bew.netlify.app/images/icon_hu2ac1ef3c6c2e434dacde130c13e106ad_115674_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>bew.netlify.app/categories/</link>
+      <link>https://bew.netlify.app/categories/</link>
     </image>
     
   </channel>
